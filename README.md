@@ -254,6 +254,3 @@ This project is open source and available under the MIT License.
 ## Support
 
 For issues, questions, or suggestions, please open an issue on GitHub.
-#   S t a f f y 
- 
- 
