@@ -35,7 +35,7 @@ app.include_router(dashboard.router)
 
 @app.get("/")
 def root():
-    return {"message": "Staffly API is running", "version": "1.0.0"}
+    return {"message": "Staffy API is running", "version": "1.0.0"}
 
 
 @app.get("/health")
